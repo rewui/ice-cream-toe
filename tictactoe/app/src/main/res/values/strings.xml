@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">tictactoe</string>
+    <string name="one">∙</string>
+    <string name="two">∙</string>
+    <string name="three">∙</string>
+    <string name="four">∙</string>
+    <string name="five">∙</string>
+    <string name="six">∙</string>
+    <string name="seven">∙</string>
+    <string name="eight">∙</string>
+    <string name="nine">∙</string>
+    <string name="hint">name:</string>
+    <string name="start">START</string>
+    <string name="ai">VS AI</string>
+    <string name="title">TicTacToe</string>
+    <string name="playerNames">Player names:</string>
+    <string name="restart">RESTART</string>
+    <string name="back">BACK</string>
+
+</resources>
